@@ -183,6 +183,7 @@ GitHub 项目按 Star 降序排列。
 - [MagicLight 短剧应用](https://magiclight.ai/tools/short-drama-app/) — MagicLight 短剧应用：脚本到角色、场景、口播成片，37 种声线、20+ 画风、跨集角色不重置，支持多语言与 720p/1080p 导出。
 - [Vozo](https://www.vozo.ai/) — 视频翻译与配音：160+ 语种译制、声线克隆、口型同步、字幕和画面文字替换，并提供 API。
 - [Hypit](https://hypit.ai/zh/) — Hypit 中文站：用 Agent 复刻参考视频的结构，替换人物、台词和素材，批量出可继续改的成片。
+- [Ideoy](https://ideoy.ai) — Ideoy：用一张照片/自拍复刻爆款短视频模板，图生视频模板工具。
 - [Diffusion Studio](https://diffusion.studio/) — 面向人和编程 Agent 的开源剪辑器：浏览器可直接剪，桌面端用 dapi 看片、改时间线并导出。
 - [KinoCut](https://kinocut.dev/) — 本地优先的 Agent 视频剪辑站：FFmpeg 工具带预检、质量门和 Video Receipt，提供 MCP、Python 客户端和 kino CLI。
 - [HeyGen Instant Highlights](https://www.heygen.com/en-in/apps/ai-video-highlights) — HeyGen 高光应用：长视频上传或贴链接，自动出多条带字幕、可选画幅的高光短片。
